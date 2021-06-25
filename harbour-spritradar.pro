@@ -13,6 +13,7 @@
 TARGET = harbour-spritradar
 QT+=positioning network concurrent
 CONFIG += sailfishapp
+TANKERKOENIG_APIKEY = your_api_key
 
 HEADERS += \
     src/settings.h
@@ -50,7 +51,7 @@ TRANSLATIONS += translations/harbour-spritradar.ts \
 
 DISTFILES += \
     qml/pages/Plugin/MyGasFeed.qml \
-    qml/pages/Plugin/SpritpreisRechner.qml \
+    #qml/pages/Plugin/SpritpreisRechner.qml \
     php/es/db.php \
     php/es/index.php \
     php/it/db.php \
@@ -59,9 +60,22 @@ DISTFILES += \
     php/index.php \
     rpm/harbour-spritradar.yaml \
     harbour-spritradar.png \
-    qml/pages/Plugin/PrixCarburants.qml \
+    #qml/pages/Plugin/PrixCarburants.qml \
     rpm/harbour-spritradar.yaml \
     rpm/harbour-spritradar.changes
 
 SAILFISHAPP_ICONS = 108x108 128x128 256x256 86x86
 
+ICONPATH = /usr/share/icons/hicolor
+
+86.png.path = $${ICONPATH}/86x86/apps/
+86.png.files += icons/86x86/harbour-spritradar.png
+
+108.png.path = $${ICONPATH}/108x108/apps/
+108.png.files += icons/108x108/harbour-spritradar.png
+
+128.png.path = $${ICONPATH}/128x128/apps/
+128.png.files += icons/128x128/harbour-spritradar.png
+
+256.png.path = $${ICONPATH}/256x256/apps/
+256.png.files += icons/256x256/harbour-spritradar.png

@@ -249,53 +249,6 @@
     </message>
 </context>
 <context>
-    <name>PrixCarburants</name>
-    <message>
-        <source>Opening times</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Daily</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Except</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Prices</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Services</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Gazole</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>SP95</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>E85</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>GPLc</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>SP98</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>E10</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>SpritpreisRechner</name>
     <message>
         <source>e5</source>
@@ -332,57 +285,6 @@
     <message>
         <source>Gas</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Sviluppoeconomico</name>
-    <message>
-        <source>Info</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Prices</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Serviced</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Brand</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Off-Brand</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Updated</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>GPL</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Benzina</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Gasolio</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Metano</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Gasolio Special</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Benzina Special</source>
-        <translation></translation>
     </message>
 </context>
 <context>
