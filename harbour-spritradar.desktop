@@ -4,3 +4,7 @@ X-Nemo-Application-Type=silica-qt5
 Icon=harbour-spritradar
 Exec=harbour-spritradar
 Name=SpritRadar
+[X-Sailjail]
+OrganizationName=harbour-spritradar
+ApplicationName=harbour-spritradar
+Permissions=Privileged;UserDirs;Location;Internet
